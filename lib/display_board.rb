@@ -5,9 +5,9 @@
 
 def display_board
   puts "   |   |   "
-  puts dashline
+  puts "-----------"
   puts "   |   |   "
-  puts dashline2
+  puts "-----------"
   puts "   |   |   "
 
 end
