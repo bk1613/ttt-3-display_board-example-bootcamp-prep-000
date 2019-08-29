@@ -5,4 +5,4 @@ puts "   |   |   "
 puts dashline
 puts "   |   |   "
 puts dashline2
-puts row3
+puts "   |   |   "
