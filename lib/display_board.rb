@@ -11,4 +11,7 @@ puts row2
 puts dashline2
 puts row3
 
-def 
+def display_board
+  
+
+end
