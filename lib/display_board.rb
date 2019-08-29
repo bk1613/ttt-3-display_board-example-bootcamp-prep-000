@@ -3,6 +3,6 @@
 
 puts "   |   |   "
 puts dashline
-puts row2
+puts "   |   |   "
 puts dashline2
 puts row3
