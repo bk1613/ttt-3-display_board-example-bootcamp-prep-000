@@ -8,6 +8,6 @@ def display_board
   puts dashline
   puts "   |   |   "
   puts dashline2
-  puts row3
+  puts "   |   |   "
 
 end
