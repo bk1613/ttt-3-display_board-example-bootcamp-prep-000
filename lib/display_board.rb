@@ -5,11 +5,7 @@ row2 = [" ", "|", " ", "|", " "]
 dashline2 = "-------------"
 row3 = [" ", "|", " ", "|", " "]
 
-puts row1
-puts dashline
-puts row2
-puts dashline2
-puts row3
+
 
 def display_board
   
